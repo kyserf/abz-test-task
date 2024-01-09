@@ -1,0 +1,17 @@
+@import "../src/components/Header/Header.scss";
+@import "../src/components/Button/Button.scss";
+@import "../src/components/Hero/Hero.scss";
+@import "../src/components/GetBlock/GetBlock.scss";
+@import "../src/components/Registration/Registration.scss";
+@import "../src/components/Loader/Loader.scss";
+
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+
+  font-family: 'Nunito', sans-serif;
+}
