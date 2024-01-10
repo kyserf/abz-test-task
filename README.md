@@ -1,8 +1,14 @@
-# React + Vite
+# Test task for ABZ.agency Solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Deployment
+The solution has been deployed to a hosting service and can be viewed in a browser. You can access it through the following link: kyserf.github.io/abz-test-task/
 
-Currently, two official plugins are available:
+## Overview
+This project involves working with a REST API to perform both GET and POST requests. The primary tasks include implementing a user display block based on API responses and creating a registration form with front-end validation and business logic integration.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Used technologies
+- React
+- Scss
+- Axios
+- Vite
+- REST API
