@@ -207,9 +207,9 @@ export const Registration = () => {
         </form>
       </div>
 
-      {isDataSent && (
+      {!isDataSent && (
         <div className="registration__success-message fade-in-out">
-          <img src="../../../public/images/success-image.svg" alt="successfull" />
+          <img src="/dist/images/successimage.svg" alt="successfull" />
         </div>
       )}
     </section>
